@@ -1,6 +1,6 @@
 # DataStructures-Assignment-5
 This program is designed to be executed through Eclipse or another Java-supported IDE.
-Accidents report file is included to download, must be accesible in project root folder
+Accidents report file is available to download, must be accesible in project root folder
  
  - run the program
  - input filePath
